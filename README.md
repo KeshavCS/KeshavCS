@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Keshav
-- 👀 I’m interested in Frontend Development & HTML Email Development
+- 👀 I’m interested in Frontend, Shopify & HTML Email Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Email & Frontend projects
 - 📫 How to reach me ...
 
 <!---
